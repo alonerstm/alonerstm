@@ -1,3 +1,3 @@
-I am a new one
-Wanna learn
-Wish myself gl
+I am a new one.
+Wanna learn.
+Wish myself gl.
